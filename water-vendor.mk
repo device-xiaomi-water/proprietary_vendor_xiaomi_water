@@ -30,20 +30,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/water/proprietary/lib/vendor.mediatek.hardware.pq@2.1.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.mediatek.hardware.pq@2.1.so \
     vendor/xiaomi/water/proprietary/lib/vendor.mediatek.hardware.pq@2.2.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.mediatek.hardware.pq@2.2.so \
     vendor/xiaomi/water/proprietary/lib/vendor.mediatek.hardware.pq@2.3.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.mediatek.hardware.pq@2.3.so \
-    vendor/xiaomi/water/proprietary/odm/etc/build_c3s2fg.prop:$(TARGET_COPY_OUT_ODM)/etc/build_c3s2fg.prop \
-    vendor/xiaomi/water/proprietary/odm/etc/build_c3s2fin.prop:$(TARGET_COPY_OUT_ODM)/etc/build_c3s2fin.prop \
-    vendor/xiaomi/water/proprietary/odm/etc/build_c3s2finh.prop:$(TARGET_COPY_OUT_ODM)/etc/build_c3s2finh.prop \
-    vendor/xiaomi/water/proprietary/odm/etc/build_c3s2g.prop:$(TARGET_COPY_OUT_ODM)/etc/build_c3s2g.prop \
-    vendor/xiaomi/water/proprietary/odm/etc/build_c3s2in.prop:$(TARGET_COPY_OUT_ODM)/etc/build_c3s2in.prop \
-    vendor/xiaomi/water/proprietary/odm/etc/build_c3s2inh.prop:$(TARGET_COPY_OUT_ODM)/etc/build_c3s2inh.prop \
-    vendor/xiaomi/water/proprietary/odm/etc/build_c3s2l.prop:$(TARGET_COPY_OUT_ODM)/etc/build_c3s2l.prop \
-    vendor/xiaomi/water/proprietary/odm/etc/build_c3s2p.prop:$(TARGET_COPY_OUT_ODM)/etc/build_c3s2p.prop \
-    vendor/xiaomi/water/proprietary/odm/etc/build_c3s2ph.prop:$(TARGET_COPY_OUT_ODM)/etc/build_c3s2ph.prop \
-    vendor/xiaomi/water/proprietary/odm/etc/build_c3s2pr.prop:$(TARGET_COPY_OUT_ODM)/etc/build_c3s2pr.prop \
-    vendor/xiaomi/water/proprietary/odm/etc/vintf/manifest_dsds.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_dsds.xml \
-    vendor/xiaomi/water/proprietary/odm/etc/vintf/manifest_qsqs.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_qsqs.xml \
-    vendor/xiaomi/water/proprietary/odm/etc/vintf/manifest_ss.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_ss.xml \
-    vendor/xiaomi/water/proprietary/odm/etc/vintf/manifest_tsts.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_tsts.xml \
     vendor/xiaomi/water/proprietary/system_ext/etc/a2dp_audio_policy_configuration.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/a2dp_audio_policy_configuration.xml \
     vendor/xiaomi/water/proprietary/system_ext/etc/a2dp_in_audio_policy_configuration.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/a2dp_in_audio_policy_configuration.xml \
     vendor/xiaomi/water/proprietary/system_ext/etc/audio_policy_configuration.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/audio_policy_configuration.xml \
